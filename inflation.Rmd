@@ -61,7 +61,3 @@ inflation %>%
   theme(legend.position = c(.1, .9)) +
   NULL
 ```
-
-```{python}
-print("Hi! Python here, do you miss R already?")
-```
